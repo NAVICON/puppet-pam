@@ -1,0 +1,13 @@
+{
+  "name": "torian-pam",
+  "version": "0.0.9",
+  "summary": "PAM module for Puppet.",
+  "author": "Emiliano Castagnari ecastag@gmail.com (aka Torian)",
+  "description": "Manage PAM configuration via Puppet",
+  "dependencies": [],
+  "types": [],
+  "checksums": {},
+  "source": "https://github.com/torian/puppet-pam",
+  "project_page": "https://github.com/torian/puppet-pam",
+  "license": "GPL v2.0"
+}
